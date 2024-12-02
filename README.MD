@@ -1,4 +1,4 @@
 
 
-user name :pavan
+user name :manju
 password: password$
